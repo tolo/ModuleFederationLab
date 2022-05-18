@@ -9,7 +9,7 @@ const App = () => {
           margin: '10px',
           padding: '10px',
           textAlign: 'center',
-          backgroundColor: 'greenyellow',
+          backgroundColor: 'goldenrod',
         }}
       >
         <h1>App1</h1>

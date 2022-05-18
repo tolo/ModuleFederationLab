@@ -10,7 +10,7 @@ const App = (props) => {
         backgroundColor: 'cyan',
       }}
     >
-      <h1>App 2 - {props.name}</h1>
+      <h1>App 2.2 - {props.name}</h1>
     </div>
   );
 };
